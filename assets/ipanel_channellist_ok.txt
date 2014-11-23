@@ -1,0 +1,978 @@
+{
+    "chnl_list": [
+        {
+            "chnl_cfg": {
+                "channelPoint": "267",
+                "isHigh": "1",
+                "serviceID": "26703",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851347,
+            "chnl_name": "深圳电视剧高清",
+            "chnl_num": 1,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|115|218|222",
+            "label_name": "高清|地方|地方|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdszdsj&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdszdsj&playtype=hls",
+                "delivery://267.0.0.26703.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416382380,
+                    "id": 252009515,
+                    "name": "开心一笑:父亲",
+                    "start_time": 1416381660
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400003711,
+                    "name": "大男当婚",
+                    "series_idx": 0
+                },
+                {
+                    "id": 400004784,
+                    "name": "开心一笑:小合唱",
+                    "series_idx": 0
+                },
+                {
+                    "id": 400006878,
+                    "name": "后厨",
+                    "series_idx": 0
+                },
+                {
+                    "id": 400004816,
+                    "name": "开心一笑:相亲",
+                    "series_idx": 0
+                },
+                {
+                    "id": 400006962,
+                    "name": "隐形战士",
+                    "series_idx": 0
+                },
+                {
+                    "id": 400004757,
+                    "name": "开心一笑:王牌对王牌",
+                    "series_idx": 0
+                },
+                {
+                    "id": 400004712,
+                    "name": "开心一笑:童话",
+                    "series_idx": 20141119
+                },
+                {
+                    "id": 400005992,
+                    "name": "飘帅",
+                    "series_idx": 0
+                },
+                {
+                    "id": 400008579,
+                    "name": "开心一笑:买辆车子添个病",
+                    "series_idx": 0
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "ǎ",
+                "list": {
+                    "150x100": "shenzhendianshiju_150x100.png",
+                    "163x198": "shenzhendianshiju_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/video/record/hdszdsj",
+                "rtsp://[域名]/playvideo/hdszdsj",
+                "iad://[域名]/hdfsdownload/hdszdsj"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "275",
+                "isHigh": "1",
+                "serviceID": "27501",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851348,
+            "chnl_name": "深圳公共高清",
+            "chnl_num": 2,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|115|218|222",
+            "label_name": "高清|地方|地方|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdszgg&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdszgg&playtype=hls",
+                "delivery://275.0.0.27501.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416385020,
+                    "id": 252009687,
+                    "name": "舞乐传奇(14)",
+                    "start_time": 1416382140
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400004759,
+                    "name": "飞哥大英雄",
+                    "series_idx": 37
+                },
+                {
+                    "id": 400004805,
+                    "name": "十味乳香胶囊",
+                    "series_idx": 20140919
+                },
+                {
+                    "id": 400001835,
+                    "name": "18 点新闻",
+                    "series_idx": 1411059000
+                },
+                {
+                    "id": 400009724,
+                    "name": "广拓:名医谈阿胶",
+                    "series_idx": 20141109
+                },
+                {
+                    "id": 400003998,
+                    "name": "各区新闻集锦:龙岗",
+                    "series_idx": 1411105380
+                },
+                {
+                    "id": 400001840,
+                    "name": "情动粤TV",
+                    "series_idx": 20140919
+                },
+                {
+                    "id": 400009691,
+                    "name": "黑玫瑰之铁血女骑兵",
+                    "series_idx": 31
+                },
+                {
+                    "id": 400009622,
+                    "name": "傻儿传奇",
+                    "series_idx": 33
+                },
+                {
+                    "id": 400010273,
+                    "name": "军刺",
+                    "series_idx": 21
+                },
+                {
+                    "id": 400010063,
+                    "name": "舞乐传奇",
+                    "series_idx": 13
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "Ε",
+                "list": {
+                    "150x100": "shenzhengonggong_150x100.png",
+                    "163x198": "shenzhengonggong_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdszgg",
+                "rtsp://[域名]/playvideo/hdszgg",
+                "iad://[域名]/hdfsdownload/hdszgg"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "283",
+                "isHigh": "1",
+                "serviceID": "28302",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851349,
+            "chnl_name": "浙江卫视高清",
+            "chnl_num": 3,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|111|112",
+            "label_name": "高清|卫视|付费",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdzjws&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdzjws&playtype=hls",
+                "delivery://283.0.0.28302.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416383580,
+                    "id": 252002111,
+                    "name": "豪门风云(7)",
+                    "start_time": 1416380760
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400007188,
+                    "name": "爷们儿",
+                    "series_idx": 39
+                },
+                {
+                    "id": 400009025,
+                    "name": "红高粱",
+                    "series_idx": 60
+                },
+                {
+                    "id": 400007422,
+                    "name": "奔跑吧兄弟",
+                    "series_idx": 20141012
+                },
+                {
+                    "id": 400005641,
+                    "name": "势不两立",
+                    "series_idx": 29
+                },
+                {
+                    "id": 400007054,
+                    "name": "中国好声音第三季总决赛",
+                    "series_idx": 20141007
+                },
+                {
+                    "id": 400008098,
+                    "name": "星星的密室",
+                    "series_idx": 20141019
+                },
+                {
+                    "id": 400002048,
+                    "name": "雪豹坚强岁月",
+                    "series_idx": 51
+                },
+                {
+                    "id": 400000746,
+                    "name": "中国好声音Ⅲ",
+                    "series_idx": 1
+                },
+                {
+                    "id": 400007648,
+                    "name": "壹周立波秀",
+                    "series_idx": 20141014
+                },
+                {
+                    "id": 400007298,
+                    "name": "奔跑吧,兄弟",
+                    "series_idx": 20141010
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "ò",
+                "list": {
+                    "150x100": "zhejiangws_150x100.png",
+                    "163x198": "zhejiangws_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdzjws",
+                "rtsp://[域名]/playvideo/hdzjws",
+                "iad://[域名]/hdfsdownload/hdzjws"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "283",
+                "isHigh": "1",
+                "serviceID": "28303",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851350,
+            "chnl_name": "广东卫视高清",
+            "chnl_num": 4,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|111|112|219|220|222",
+            "label_name": "高清|卫视|付费|付费|卫视|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdgdws&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdgdws&playtype=hls",
+                "delivery://283.0.0.28303.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416382500,
+                    "id": 251986133,
+                    "name": "活力影院",
+                    "start_time": 1416373380
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400006720,
+                    "name": "百歌颂中华",
+                    "series_idx": 20141004
+                },
+                {
+                    "id": 400000779,
+                    "name": "活力影院",
+                    "series_idx": 20140919
+                },
+                {
+                    "id": 400008067,
+                    "name": "追金行动",
+                    "series_idx": 20141020
+                },
+                {
+                    "id": 400010173,
+                    "name": "中国好男儿",
+                    "series_idx": 20141113
+                },
+                {
+                    "id": 400008097,
+                    "name": "赤子威龙",
+                    "series_idx": 20141020
+                },
+                {
+                    "id": 400008121,
+                    "name": "不是不想嫁",
+                    "series_idx": 34
+                },
+                {
+                    "id": 400007691,
+                    "name": "黄飞鸿对黄飞鸿",
+                    "series_idx": 20141015
+                },
+                {
+                    "id": 400008144,
+                    "name": "纪录片:西藏的西藏",
+                    "series_idx": 20141021
+                },
+                {
+                    "id": 400007352,
+                    "name": "城市猎人",
+                    "series_idx": 20141011
+                },
+                {
+                    "id": 400008279,
+                    "name": "勇士之城",
+                    "series_idx": 40
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "ē",
+                "list": {
+                    "150x100": "guangdongws_150x100.png",
+                    "163x198": "guangdongws_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdgdws",
+                "rtsp://[域名]/playvideo/hdgdws",
+                "iad://[域名]/hdfsdownload/hdgdws"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "267",
+                "isHigh": "1",
+                "serviceID": "26702",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851351,
+            "chnl_name": "央视体育赛事",
+            "chnl_num": 5,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|110|112|219|221|222",
+            "label_name": "高清|央视|付费|付费|央视|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdcctv&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdcctv&playtype=hls",
+                "delivery://267.0.0.26702.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416385800,
+                    "id": 252002222,
+                    "name": "花样滑冰大奖赛俄罗斯站",
+                    "start_time": 1416380400
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400007813,
+                    "name": "2014 世界沙滩排球巡回赛精选",
+                    "series_idx": 1
+                },
+                {
+                    "id": 400007774,
+                    "name": "2016 欧洲杯预选:哈萨克斯坦-捷克",
+                    "series_idx": 20141016
+                },
+                {
+                    "id": 400008272,
+                    "name": "2014/2015 欧洲冠军联赛小组赛",
+                    "series_idx": 5
+                },
+                {
+                    "id": 400008073,
+                    "name": "2014 年世界女篮锦标赛排位赛",
+                    "series_idx": 20141020
+                },
+                {
+                    "id": 400007206,
+                    "name": "2014/2015 北美冰球职业联赛",
+                    "series_idx": 20141009
+                },
+                {
+                    "id": 400008349,
+                    "name": "欧冠小组赛:利物浦-皇家马德里",
+                    "series_idx": 20141023
+                },
+                {
+                    "id": 400007697,
+                    "name": "2016 欧洲杯预选:卢森堡-西班牙",
+                    "series_idx": 20141015
+                },
+                {
+                    "id": 400007703,
+                    "name": "国际足球友谊赛:中国-巴拉圭",
+                    "series_idx": 20141015
+                },
+                {
+                    "id": 400007757,
+                    "name": "2016 欧洲杯预选:丹麦-葡萄牙",
+                    "series_idx": 20141016
+                },
+                {
+                    "id": 400008019,
+                    "name": "西甲第8 轮:马德里竞技-西班牙人",
+                    "series_idx": 20141019
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": ")",
+                "list": {
+                    "150x100": "CCTV-5_150x100.png",
+                    "163x198": "CCTV-5_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdcctv",
+                "rtsp://[域名]/playvideo/hdcctv",
+                "iad://[域名]/hdfsdownload/hdcctv"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "291",
+                "isHigh": "1",
+                "serviceID": "29101",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851352,
+            "chnl_name": "北京卫视高清",
+            "chnl_num": 6,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|111|112|219|220|222",
+            "label_name": "高清|卫视|付费|付费|卫视|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdbjws&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdbjws&playtype=hls",
+                "delivery://291.0.0.29101.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416382500,
+                    "id": 252002297,
+                    "name": "我和我的他们(2)",
+                    "start_time": 1416379800
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400008606,
+                    "name": "红高粱",
+                    "series_idx": 60
+                },
+                {
+                    "id": 400000808,
+                    "name": "勇敢的心",
+                    "series_idx": 76
+                },
+                {
+                    "id": 400006964,
+                    "name": "北平无战事",
+                    "series_idx": 53
+                },
+                {
+                    "id": 400008784,
+                    "name": "英雄使命",
+                    "series_idx": 42
+                },
+                {
+                    "id": 400004489,
+                    "name": "光阴",
+                    "series_idx": 20140919
+                },
+                {
+                    "id": 400002559,
+                    "name": "电视先锋榜",
+                    "series_idx": 20140921
+                },
+                {
+                    "id": 400005877,
+                    "name": "产科医生",
+                    "series_idx": 42
+                },
+                {
+                    "id": 400002631,
+                    "name": "北京您早",
+                    "series_idx": 20140919
+                },
+                {
+                    "id": 400002892,
+                    "name": "杨澜访谈录",
+                    "series_idx": 20140921
+                },
+                {
+                    "id": 400004120,
+                    "name": "SK 状元榜",
+                    "series_idx": 20140920
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "Ζ",
+                "list": {
+                    "150x100": "beigingws_150x100.png",
+                    "163x198": "beijingws_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdbjws",
+                "rtsp://[域名]/playvideo/hdbjws",
+                "iad://[域名]/hdfsdownload/hdbjws"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "291",
+                "isHigh": "1",
+                "serviceID": "29102",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851353,
+            "chnl_name": "湖南卫视高清",
+            "chnl_num": 7,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|111|112|219|220|222",
+            "label_name": "高清|卫视|付费|付费|卫视|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdhnws&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdhnws&playtype=hls",
+                "delivery://291.0.0.29102.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416384000,
+                    "id": 251993974,
+                    "name": "快乐大本营",
+                    "start_time": 1416378600
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400003726,
+                    "name": "古剑奇谭",
+                    "series_idx": 52
+                },
+                {
+                    "id": 400005359,
+                    "name": "把爱带回家",
+                    "series_idx": 69
+                },
+                {
+                    "id": 400007862,
+                    "name": "一年级",
+                    "series_idx": 5
+                },
+                {
+                    "id": 400002354,
+                    "name": "快乐大本营",
+                    "series_idx": 46
+                },
+                {
+                    "id": 400002323,
+                    "name": "我的特一营",
+                    "series_idx": 41
+                },
+                {
+                    "id": 400000826,
+                    "name": "湖南新闻联播",
+                    "series_idx": 1411081200
+                },
+                {
+                    "id": 400002911,
+                    "name": "美人制造",
+                    "series_idx": 10
+                },
+                {
+                    "id": 400000841,
+                    "name": "天天向上",
+                    "series_idx": 44
+                },
+                {
+                    "id": 400003348,
+                    "name": "中秋之夜",
+                    "series_idx": 20140925
+                },
+                {
+                    "id": 400006585,
+                    "name": "风中奇缘",
+                    "series_idx": 28
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "ě",
+                "list": {
+                    "150x100": "hunanws_150x100.png",
+                    "163x198": "hunanws_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdhnws",
+                "rtsp://[域名]/playvideo/hdhnws",
+                "iad://[域名]/hdfsdownload/hdhnws"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "291",
+                "isHigh": "1",
+                "serviceID": "29103",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851354,
+            "chnl_name": "江苏卫视高清",
+            "chnl_num": 8,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|111|112|219|220|222",
+            "label_name": "高清|卫视|付费|付费|卫视|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdjsws&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdjsws&playtype=hls",
+                "delivery://291.0.0.29103.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416384720,
+                    "id": 252010171,
+                    "name": "甄嬛传(28)(22:00 城市猎人)",
+                    "start_time": 1416381660
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400007909,
+                    "name": "特种兵之火凤凰",
+                    "series_idx": 52
+                },
+                {
+                    "id": 400007545,
+                    "name": "战旗",
+                    "series_idx": 30
+                },
+                {
+                    "id": 400008435,
+                    "name": "红楼梦",
+                    "series_idx": 51
+                },
+                {
+                    "id": 400006207,
+                    "name": "你所不知道的中国",
+                    "series_idx": 36
+                },
+                {
+                    "id": 400007000,
+                    "name": "怀玉公主",
+                    "series_idx": 55
+                },
+                {
+                    "id": 400008077,
+                    "name": "火蓝刀锋",
+                    "series_idx": 28
+                },
+                {
+                    "id": 400003776,
+                    "name": "星厨驾到",
+                    "series_idx": 20140924
+                },
+                {
+                    "id": 400004836,
+                    "name": "战神",
+                    "series_idx": 53
+                },
+                {
+                    "id": 400002549,
+                    "name": "万家灯火",
+                    "series_idx": 20140919
+                },
+                {
+                    "id": 400000854,
+                    "name": "晚间新闻",
+                    "series_idx": 1411139640
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "Η",
+                "list": {
+                    "150x100": "jiangsuws_150x100.png",
+                    "163x198": "jiangsuws_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdjsws",
+                "rtsp://[域名]/playvideo/hdjsws",
+                "iad://[域名]/hdfsdownload/hdjsws"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "267",
+                "isHigh": "1",
+                "serviceID": "26701",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851355,
+            "chnl_name": "中央一台高清",
+            "chnl_num": 9,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|110|112|219|221|222",
+            "label_name": "高清|央视|付费|付费|央视|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdcctv1&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdcctv1&playtype=hls",
+                "delivery://267.0.0.26701.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416382860,
+                    "id": 252002593,
+                    "name": "爱情面前谁怕谁(12)",
+                    "start_time": 1416379920
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400004736,
+                    "name": "前情提要:马向阳下乡记",
+                    "series_idx": 40
+                },
+                {
+                    "id": 400007023,
+                    "name": "打狗棍",
+                    "series_idx": 70
+                },
+                {
+                    "id": 400002520,
+                    "name": "人与自然",
+                    "series_idx": 256
+                },
+                {
+                    "id": 400008023,
+                    "name": "前情提要:开国元勋朱德",
+                    "series_idx": 33
+                },
+                {
+                    "id": 400000879,
+                    "name": "焦点访谈",
+                    "series_idx": 20140920
+                },
+                {
+                    "id": 400003514,
+                    "name": "木府风云",
+                    "series_idx": 40
+                },
+                {
+                    "id": 400007714,
+                    "name": "纪念全国人大成立60 周年",
+                    "series_idx": 20141015
+                },
+                {
+                    "id": 400007590,
+                    "name": "请您欣赏:河南伏牛山",
+                    "series_idx": 20141014
+                },
+                {
+                    "id": 400002632,
+                    "name": "朝闻天下",
+                    "series_idx": 20140919
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "ā",
+                "list": {
+                    "150x100": "CCTV-HD_150x100.png",
+                    "163x198": "CCTV-HD_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdcctv1",
+                "rtsp://[域名]/playvideo/hdcctv1",
+                "iad://[域名]/hdfsdownload/hdcctv1"
+            ]
+        },
+        {
+            "chnl_cfg": {
+                "channelPoint": "339",
+                "isHigh": "1",
+                "serviceID": "33907",
+                "videoFormat": "MPEG"
+            },
+            "chnl_id": 4200851356,
+            "chnl_name": "iPanel 频道",
+            "chnl_num": 10,
+            "definition": 1,
+            "is_favorite": 0,
+            "is_free": 0,
+            "is_hide": 0,
+            "is_lock": 0,
+            "is_purchased": 0,
+            "is_tstv": 2,
+            "label": "109|114|215|222",
+            "label_name": "高清|广播|广播|高清",
+            "livetv_url": [
+                "http://[域名]/httpdvb?chlname=hdipanel&playtype=http",
+                "http://[域名]/httpdvb?chlname=hdipanel&playtype=hls",
+                "delivery://339.0.0.33907.0.0"
+            ],
+            "pf_info": [
+                {
+                    "end_time": 1416385140,
+                    "id": 252012032,
+                    "name": "心术(1)",
+                    "start_time": 1416381600
+                }
+            ],
+            "popular_program": [
+                {
+                    "id": 400002133,
+                    "name": "离婚律师",
+                    "series_idx": 46
+                },
+                {
+                    "id": 400003204,
+                    "name": "拾遗保护",
+                    "series_idx": 20140908
+                },
+                {
+                    "id": 400005680,
+                    "name": "爷们儿",
+                    "series_idx": 34
+                },
+                {
+                    "id": 400005847,
+                    "name": "名医来了",
+                    "series_idx": 20140925
+                },
+                {
+                    "id": 400002110,
+                    "name": "非你莫属:老板变形记",
+                    "series_idx": 2
+                },
+                {
+                    "id": 400000458,
+                    "name": "12 点报道",
+                    "series_idx": 20140906
+                },
+                {
+                    "id": 400003444,
+                    "name": "虎刺红",
+                    "series_idx": 15
+                },
+                {
+                    "id": 400000453,
+                    "name": "决战燕子门",
+                    "series_idx": 42
+                },
+                {
+                    "id": 400007724,
+                    "name": "烽火铁骑",
+                    "series_idx": 26
+                },
+                {
+                    "id": 400008476,
+                    "name": "绝地枪王",
+                    "series_idx": 37
+                }
+            ],
+            "poster_list": {
+                "dir": "http://[域名]/channel_icon/",
+                "icon_font": "υ",
+                "list": {
+                    "150x100": "ipanel_150x100.png",
+                    "163x198": "ipanel_163x198.png"
+                }
+            },
+            "tstv_url": [
+                "http://[域名]/hdfsdownload/video/record/hdipanel",
+                "rtsp://[域名]/playvideo/hdipanel",
+                "iad://[域名]/hdfsdownload/hdipanel"
+            ]
+        }
+    ],
+    "message": "",
+    "ret": 0,
+    "ret_msg": "success",
+    "total": 67
+}

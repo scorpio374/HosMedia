@@ -1,0 +1,116 @@
+{
+    "ret": 0,
+    "ret_msg": "success",
+    "type_list": [
+        {
+            "children": [
+                {
+                    "desc": "",
+                    "id": 101,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "频道",
+                    "original_name": "频道",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 102,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "电影",
+                    "original_name": "电影",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 103,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "回看",
+                    "original_name": "回看",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 104,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "综艺",
+                    "original_name": "综艺",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 105,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "音乐",
+                    "original_name": "音乐",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 106,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "iPanel 人文",
+                    "original_name": "电商",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 107,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "应用",
+                    "original_name": "应用",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 108,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "资讯",
+                    "original_name": "资讯",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 306,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "教育",
+                    "original_name": "教育",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 332,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "体育",
+                    "original_name": "测试数据",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 337,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "直播点播",
+                    "original_name": "直播点播",
+                    "type": null
+                }
+            ],
+            "desc": "",
+            "id": 0,
+            "is_hide": 0,
+            "merge_ids": null,
+            "name": "全类型",
+            "original_name": "全类型",
+            "type": null
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HospitalMedia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="about_chs">了解我们</string>
+    <string name="about_eng">Learn about our</string>
+    <string name="news_chs">日程&amp;新闻</string>
+    <string name="news_eng">News</string>
+    <string name="health_chs">养生课堂</string>
+	<string name="health_eng">Health class</string>
+	<string name="video_chs">休闲视频</string>
+	<string name="video_eng">Happy video</string>
+</resources>

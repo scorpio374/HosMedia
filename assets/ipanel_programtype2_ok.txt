@@ -1,0 +1,123 @@
+{
+    "ret": 0,
+    "ret_msg": "success",
+    "type_list": [
+        {
+            "children": [
+                {
+                    "desc": "",
+                    "id": 109,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "高清",
+                    "original_name": "高清",
+                    "type": [
+                        1
+                    ]
+                },
+                {
+                    "desc": "",
+                    "id": 110,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "央视",
+                    "original_name": "央视",
+                    "type": [
+                        1
+                    ]
+                },
+                {
+                    "desc": "",
+                    "id": 111,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "卫视",
+                    "original_name": "卫视",
+                    "type": [
+                        1
+                    ]
+                },
+                {
+                    "desc": "",
+                    "id": 112,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "付费",
+                    "original_name": "付费",
+                    "type": [
+                        1
+                    ]
+                },
+                {
+                    "desc": "",
+                    "id": 113,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "境外",
+                    "original_name": "境外",
+                    "type": [
+                        1
+                    ]
+                },
+                {
+                    "desc": "",
+                    "id": 114,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "广播",
+                    "original_name": "广播",
+                    "type": [
+                        1
+                    ]
+                },
+                {
+                    "desc": "",
+                    "id": 115,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "地方",
+                    "original_name": "地方",
+                    "type": [
+                        1
+                    ]
+                },
+                {
+                    "desc": "",
+                    "id": 389,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "本地台",
+                    "original_name": "本地台",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 390,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "港澳",
+                    "original_name": "港澳",
+                    "type": null
+                },
+                {
+                    "desc": "",
+                    "id": 116,
+                    "is_hide": 0,
+                    "merge_ids": null,
+                    "name": "其它",
+                    "original_name": "其它",
+                    "type": [
+                        1
+                    ]
+                }
+            ],
+            "desc": "",
+            "id": 101,
+            "is_hide": 0,
+            "merge_ids": null,
+            "name": "频道",
+            "original_name": "频道",
+            "type": null
+        }
+    ]
+}

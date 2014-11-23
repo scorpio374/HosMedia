@@ -1,0 +1,31 @@
+{
+    "chnl_name": "浙江卫视高清",
+    "chnl_num": 1,
+    "definition": 1,
+    "desc": "浙江卫视自办节目抓品牌、上品位，主打娱乐纵贯线，展示人文素养，追求实时新闻，如中国好声音节目",
+    "is_favorite": 0,
+    "is_free": 1,
+    "is_hide": 0,
+    "is_lock": 0,
+    "is_purchased": 0,
+    "is_tstv": 2,
+    "label": "109|111|215|217",
+    "label_name": "高清|卫视|广播|境外",
+    "message": "",
+    "play_token": "31616AAAZAAANAA0",
+    "poster_list": {
+        "dir": "http://[域名]/channel_icon/",
+        "icon_font": "ò",
+        "list": {
+            "163x198": "zhejiangws_163x198.png"
+        }
+    },
+    "price": 0,
+    "ret": 0,
+    "ret_msg": "success",
+    "url": [
+        "http://[域名]/hdfsdownload/video/record/hdzjws",
+        "rtsp://[域名]/playvideo/hdzjws",
+        "iad://[域名]/hdfsdownload/hdzjws"
+    ]
+}
